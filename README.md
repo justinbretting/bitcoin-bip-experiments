@@ -1,5 +1,5 @@
 
-# misc bitcoin tools
+# Bitcoin Tools - bip32 & HD Wallet Derivation
 
 Brief set of tools for experimenting with HD wallet creation
 
